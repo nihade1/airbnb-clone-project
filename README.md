@@ -1,14 +1,12 @@
 # Airbnb Clone Project
 
-## About the Project
 
 The **Airbnb Clone Project** is a real-world full-stack application simulating the development of a robust booking platform like Airbnb. This project dives deep into backend architecture, database design, API development, and application security. It provides a hands-on opportunity to understand complex systems, workflows, and teamwork dynamics while building a scalable web platform.
 
----
 
 ## Learning Objectives
 
-By completing this project, you will:
+Completing this project will help me :
 
 - Master collaborative team workflows using GitHub.
 - Deepen understanding of backend architecture and database design.
@@ -19,7 +17,7 @@ By completing this project, you will:
 
 ---
 
-## Team Roles
+# Team Roles
 
 ### Backend Developer
 Responsible for developing server-side logic, creating RESTful or GraphQL APIs, and integrating frontend requests with backend services.
@@ -36,9 +34,9 @@ Focuses on securing APIs, databases, and user authentication mechanisms to prote
 ### Project Manager
 Oversees project timelines, coordinates team communication, and ensures deliverables are completed according to plan.
 
----
 
-## Technology Stack
+
+# Technology Stack
 
 - **Django**: Web framework used to build the backend and REST/GraphQL APIs.
 - **MySQL**: Relational database used to manage structured data such as users, bookings, and listings.
@@ -49,7 +47,7 @@ Oversees project timelines, coordinates team communication, and ensures delivera
 
 ---
 
-## Database Design
+# Database Design
 
 ### Entities and Key Fields
 
@@ -95,9 +93,9 @@ Oversees project timelines, coordinates team communication, and ensures delivera
 - A **review** is written by a **user** for a **property**.
 - A **payment** is associated with one **booking**.
 
----
 
-## Feature Breakdown
+
+# Feature Breakdown
 
 - **User Management**
   - Users can register, log in, update profiles, and manage authentication credentials.
@@ -119,7 +117,7 @@ Oversees project timelines, coordinates team communication, and ensures delivera
 
 ---
 
-## API Security
+# API Security
 
 - **Authentication**
   - JWT or OAuth2 mechanisms will be used to ensure only verified users can access protected resources.
@@ -139,9 +137,9 @@ Oversees project timelines, coordinates team communication, and ensures delivera
 - Secures payment transactions.
 - Prevents unauthorized data access and misuse.
 
----
 
-## CI/CD Pipeline
+
+# CI/CD Pipeline
 
 ### What is CI/CD?
 
